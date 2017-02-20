@@ -7,7 +7,8 @@ public class SingleObject {
     public SingleObject(){
      }
     public SingleObject getlnstance(){
+        return null;
      }
-    public void show message(){
+    public void showmessage(){
      }
 }
